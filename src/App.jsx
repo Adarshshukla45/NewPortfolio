@@ -585,7 +585,7 @@ export default function App() {
                     <img
                       src={project.image}
                       alt={project.name}
-                      className="w-full h-full object-cover filter grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-500"
+                      // className="w-full h-full object-cover filter grayscale group-hover:grayscale-0 group-hover:scale-105 transition-all duration-500"
                     />
                     {project.featured && (
                       <span className="absolute top-3 left-3 bg-cyan-500 text-white text-3xs font-extrabold uppercase px-2 py-1 rounded-md tracking-wider">
