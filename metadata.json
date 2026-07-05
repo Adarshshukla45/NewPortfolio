@@ -1,0 +1,6 @@
+{
+  "name": "Computer Science Portfolio",
+  "description": "A modern, highly responsive, and feature-rich personal portfolio website for a Computer Science Engineering student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
