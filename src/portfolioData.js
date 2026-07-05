@@ -18,12 +18,12 @@ export const portfolioData = {
     {
       degree: "Bachelor of Technology in Computer Science & Engineering",
       institution: "Pranveer Singh Institute of Technology, Kanpur",
-      period: "2023 - 2027",
+      period: "2023 - Current",
       grade: "CGPA: 8.2/10.0",
       details: [
         "Core coursework: Data Structures & Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks.",
         "Dean's List for Academic Excellence (Top 5% of class).",
-        "Active member of the Software Development Club and Competitive Coding Cell."
+        "Active member of the Software Development Club."
       ]
     },
     {
