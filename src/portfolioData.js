@@ -1,3 +1,4 @@
+
 export const portfolioData = {
   personalInfo: {
     name: "Adarsh Shukla",
@@ -5,7 +6,7 @@ export const portfolioData = {
     subtitle: "Full-Stack Developer & Problem Solver",
     bio: "Passionate Computer Science Engineering undergraduate specializing in building modern web applications, designing interactive user interfaces, and solving algorithmic problems. Dedicated to writing clean, optimized, and maintainable code.",
     careerObjective: "To leverage my technical skills in full-stack development, software engineering principles, and data structures to build highly scalable, user-centric software solutions in a dynamic and collaborative engineering environment.",
-    avatar: "/src/assets/images/adarsh.png",
+    avatar: "/adarsh.png",
     resumeUrl: "#resume-section", // Interactive section link
     email: "adarshshuklajjk@example.com",
     phone: "9026500843",
