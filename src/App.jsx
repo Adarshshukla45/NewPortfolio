@@ -916,13 +916,13 @@ export default function App() {
                 >
                   <FileText size={14} /> Print / Export PDF
                 </button>
-                <a
+                {/* <a
                   id="download-resume-button"
                   href={portfolioData.personalInfo.resumeUrl}
                   className="flex items-center gap-1.5 py-2 px-4 rounded-xl bg-gradient-to-r from-cyan-500 to-blue-600 text-white font-semibold text-xs hover:from-cyan-400 hover:to-blue-500 transition-all shadow-lg"
                 >
                   <Download size={14} /> Download Resume File
-                </a>
+                </a> */}
               </div>
 
               {/* Sheet preview representation */}
