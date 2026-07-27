@@ -162,7 +162,7 @@ export default function App() {
                 <span
                   className={`font-bold tracking-tight text-lg transition-colors duration-200 ${isDark ? "text-white" : "text-slate-900"}`}
                 >
-                  Adarsh <span className="text-cyan-500">.Dev()</span>
+                  <span className="text-cyan-500"></span>
                 </span>
               </a>
             </div>
