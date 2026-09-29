@@ -143,18 +143,30 @@ export const portfolioData = {
       category: "system",
       featured: false
     },
-    {
-      id: "youview",
-      name: "YouView",
-      description: "A shared media hub and community-focused video content organization layout with tag filtering, comment aggregations, and responsive video players.",
-      longDescription: "A high-fidelity dashboard built to curate and organize shared video streams. Features interactive commentary systems, group watchrooms, responsive overlay modals, and responsive layout configurations.",
-      image: "/youview_cover_1783002681297.jpg",
-      techStack: ["⚛️ React", "🎨 Tailwind CSS", "💾 Local Storage", "🎞️ Framer Motion"],
-      liveUrl: "https://adarshshukla45.github.io/Lauching-Soon-Page/",
-      githubUrl: "https://github.com/Adarshshukla45/YouView",
-      category: "web",
-      featured: false
-    }
+  
+{
+  id: "brickbrain-ai",
+  name: "BrickBrain AI",
+  description: "An AI-powered real estate platform for property discovery, price prediction, market forecasting, recommendations, and area intelligence.",
+  longDescription: "A full-stack real estate platform built with React, Node.js, Express, and MongoDB, integrated with Python FastAPI microservices for AI and machine learning. Features JWT authentication, role-based access control, property search, wishlist and comparison, ML-based price prediction, ARIMA/LSTM forecasting, recommendation engine, area intelligence, and an AI chat assistant.",
+  image: "/brickbrain_ai_cover.jpg",
+  techStack: [
+    "⚛️ React",
+    "🟢 Node.js",
+    "🚂 Express.js",
+    "🍃 MongoDB",
+    "🎨 Tailwind CSS",
+    "🐍 Python",
+    "⚡ FastAPI",
+    "🤖 Scikit-learn",
+    "📊 Statsmodels"
+  ],
+  liveUrl: "https://adarshshukla45.github.io/Lauching-Soon-Page/",
+  githubUrl: "https://github.com/Adarshshukla45/BrickBrain-AI",
+  category: "web",
+  featured: true
+}
+
   ],
   certificates: [
     {
