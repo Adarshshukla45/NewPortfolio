@@ -164,7 +164,7 @@ export const portfolioData = {
   liveUrl: "https://adarshshukla45.github.io/Lauching-Soon-Page/",
   githubUrl: "https://github.com/Adarshshukla45/BrickBrain-AI",
   category: "web",
-  featured: true
+  featured: false
 }
 
   ],
