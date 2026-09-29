@@ -149,7 +149,7 @@ export const portfolioData = {
   name: "BrickBrain AI",
   description: "An AI-powered real estate platform for property discovery, price prediction, market forecasting, recommendations, and area intelligence.",
   longDescription: "A full-stack real estate platform built with React, Node.js, Express, and MongoDB, integrated with Python FastAPI microservices for AI and machine learning. Features JWT authentication, role-based access control, property search, wishlist and comparison, ML-based price prediction, ARIMA/LSTM forecasting, recommendation engine, area intelligence, and an AI chat assistant.",
-  image: "/brickbrain_ai_cover.jpg",
+  image: "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=1200&q=80",
   techStack: [
     "⚛️ React",
     "🟢 Node.js",
