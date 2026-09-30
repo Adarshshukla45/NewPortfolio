@@ -114,7 +114,7 @@ export const portfolioData = {
       longDescription: "CivicPulse 2.0 bridges the gap between citizens and local governance. Features secure feedback logs, active community voting on municipal tasks, clean modern visualization charts of infrastructure budgets, and a transparent query filing mechanism.",
       image: "/civic_pulse_cover_1783002622238.jpg",
       techStack: ["⚛️ React", "🎨 Tailwind CSS", "🚀 Express.js", "🍃 MongoDB", "📊 Chart.js"],
-      liveUrl: "civicpulse-2-0-fixed.onrender.com",
+      liveUrl: "https://civicpulse-2-0-fixed.onrender.com",
       githubUrl: "https://github.com/Adarshshukla45/CivicPulse-2.0",
       category: "system",
       featured: true
